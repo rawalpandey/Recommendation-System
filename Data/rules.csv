@@ -1,0 +1,681 @@
+,antecedents,consequents,confidence
+0,srap,bCrime,1
+1,srap,bCrime,1
+2,mMystery,bSuspense,1
+4,mThriller,srock,1
+5,mThriller,srock,1
+6,bNon-Fiction,mBiography,1
+7,mBiography,bNon-Fiction,1
+8,bNon-Fiction,mBiography,1
+9,mBiography,bNon-Fiction,1
+10,mBiography,scountry,1
+11,mMystery,bSuspense,1
+12,mMystery,bSuspense,1
+13,bRomance ,steen pop,1
+14,spop ,bFiction,1
+15,mAdventure ,spop,1
+16,spop rock,bCrime,1
+17,mThriller,srock,1
+18,bNon-Fiction ,scountry,1
+19,bNon-Fiction ,mBiography,1
+20,mBiography ,bNon-Fiction,1
+21,bNon-Fiction,mBiography ,1
+22,mBiography,bNon-Fiction ,1
+23,bNon-Fiction,scountry,1
+24,bNon-Fiction,scountry,1
+25,sjazz,mDrama,1
+26,sjazz,mDrama,1
+27,mMystery,spop,1
+28,bNon-Fiction,mBiography,1
+29,mBiography,bNon-Fiction,1
+30,bFiction ,mAnimation,1
+31,bFiction ,mAnimation,1
+32,slatin pop,bRomance,1
+34,mBiography,scountry,1
+35,mBiography,scountry,1
+36,mFamily,bFiction,1
+37,mFamily,bFiction,1
+38,mHorror,bSuspense,1
+39,mHorror,bSuspense,1
+40,mDrama ,bFiction,1
+41,mDrama ,bFiction,1
+42,mDrama ,bFiction,1
+43,mDrama ,bFiction,1
+44,spop ,bSuspense,1
+45,spop ,mMystery,1
+46,mMystery ,spop,1
+47,mMystery,spop ,1
+48,mComedy ,bFiction,1
+49,mComedy ,bRomance,1
+50,mComedy ,bRomance,1
+51,mDocumentary ,bCrime,1
+52,bNon-Fiction,scountry,1
+53,sEDM ,bSuspense,1
+54,sEDM ,mHorror,1
+57,spop ,bFiction,1
+58,spop ,bFiction,1
+59,bFiction ,mAnimation,1
+60,spop rock,bCrime,1
+61,spop rock,bCrime,1
+62,sEDM ,bSuspense,1
+63,sEDM ,mHorror,1
+64,sEDM ,bSuspense,1
+65,sEDM ,mHorror,1
+66,spop rock,bCrime,1
+67,spop rock,bCrime,1
+68,srap ,bCrime,1
+69,mAdventure ,srap,1
+70,srap ,bCrime,1
+71,mAdventure ,srap,1
+72,sjazz,mDrama,1
+73,s,b,1
+74,b,s,1
+75,s,b,1
+76,b,s,1
+77,mComedy ,bRomance,1
+78,mComedy ,bRomance,1
+79,spop ,bFiction,1
+80,mAdventure ,spop,1
+81,spop ,bFiction,1
+82,mAdventure ,spop,1
+83,bRomance ,steen pop,1
+84,bRomance ,steen pop,1
+85,mThriller,bThriller,1
+86,mAction ,bRomance,1
+87,mAction ,slatin pop,1
+88,bThriller ,srock,1
+89,bThriller ,mThriller,1
+90,mThriller ,bThriller,1
+91,mThriller,bThriller ,1
+92,mDrama ,bFiction,1
+93,slatin pop,bRomance,1
+94,slatin pop,bRomance,1
+95,mDocumentary ,bCrime,1
+96,mDocumentary ,bCrime,1
+97,srap ,bCrime,1
+98,mAdventure ,srap,1
+99,s ,b,1
+100,b ,s,1
+101,m,s ,1
+102,s ,b,1
+103,b ,s,1
+104,m,s ,1
+105,m,s,1
+106,m,s,1
+107,spop ,bFiction,1
+108,mComedy ,bFiction,1
+109,mComedy ,bFiction,1
+110,mMystery,spop,1
+111,mMystery,spop,1
+112,mComedy ,bRomance,1
+113,mDrama ,bFiction,1
+114,sjazz ,mDrama,1
+115,sjazz,mDrama ,1
+116,mDrama ,bFiction,1
+117,sjazz ,mDrama,1
+118,sjazz,mDrama ,1
+119,mComedy ,bCrime,1
+120,mComedy ,bCrime,1
+121,s ,b,1
+122,b ,s,1
+123,m,s ,1
+124,bNon-Fiction ,scountry,1
+125,bNon-Fiction ,mBiography,1
+126,mBiography ,bNon-Fiction,1
+127,bNon-Fiction,mBiography ,1
+128,mBiography,bNon-Fiction ,1
+129,bNon-Fiction ,scountry,1
+130,bNon-Fiction ,mBiography,1
+131,mBiography ,bNon-Fiction,1
+132,bNon-Fiction,mBiography ,1
+133,mBiography,bNon-Fiction ,1
+134,spop ,bSuspense,1
+135,spop ,mMystery,1
+136,mMystery ,spop,1
+137,mMystery,spop ,1
+138,spop ,bSuspense,1
+139,spop ,mMystery,1
+140,mMystery ,spop,1
+141,mMystery,spop ,1
+142,mAction ,bRomance,1
+143,mAction ,slatin pop,1
+144,mAction ,bRomance,1
+145,mAction ,slatin pop,1
+146,mHorror,bSuspense,1
+147,s,b,1
+148,b,s,1
+149,sjazz,bFiction,1
+150,spop rock,bCrime,1
+151,sjazz,bFiction,1
+152,sjazz,bFiction,1
+153,mThriller,bThriller,1
+154,mThriller,bThriller,1
+155,mDrama ,bFiction,1
+156,sjazz ,mDrama,1
+157,sjazz,mDrama ,1
+158,mFamily,bFiction,1
+159,bThriller ,srock,1
+160,bThriller ,mThriller,1
+161,mThriller ,bThriller,1
+162,mThriller,bThriller ,1
+163,bThriller ,srock,1
+164,bThriller ,mThriller,1
+165,mThriller ,bThriller,1
+166,mThriller,bThriller ,1
+167,mComedy ,bRomance,1
+168,mDrama ,bFiction,1
+169,srap,bCrime,1
+170,mComedy ,bCrime,1
+171,s,m,0.998977243671695
+172,b,m,0.998977243671695
+173,b,m,0.998977243671695
+174,b,m,0.998977243671695
+175,s ,m,0.998977243671695
+176,s,b ,0.998977243671695
+177,b,s ,0.998977243671695
+178,s ,m,0.998977243671695
+179,s,b ,0.998977243671695
+180,b,s ,0.998977243671695
+181,s,m,0.998977243671695
+182,s,m,0.998977243671695
+183,s ,m,0.998977243671695
+184,s,b ,0.998977243671695
+185,b,s ,0.998977243671695
+186,spop ,bFiction,0.989304812834224
+187,mAction ,spop,0.989304812834224
+188,spop ,bFiction,0.989304812834224
+189,mAction ,spop,0.989304812834224
+190,spop ,bFiction,0.989304812834224
+191,mAction ,spop,0.989304812834224
+192,mAnimation,steen pop,0.988235294117647
+193,mAnimation,steen pop,0.988235294117647
+194,mAnimation,steen pop,0.988235294117647
+195,sEDM,bSuspense,0.968503937007874
+196,mHorror ,sEDM,0.968503937007874
+197,sEDM,mHorror ,0.968503937007874
+198,mHorror,sEDM ,0.968503937007874
+199,mHorror ,sEDM,0.968503937007874
+200,sEDM,mHorror ,0.968503937007874
+201,mHorror,sEDM ,0.968503937007874
+202,mHorror ,sEDM,0.968503937007874
+203,sEDM,mHorror ,0.968503937007874
+204,mHorror,sEDM ,0.968503937007874
+205,sEDM,bSuspense,0.968503937007874
+206,sEDM,bSuspense,0.968503937007874
+207,sEDM,mHorror,0.968503937007874
+208,mHorror,sEDM,0.968503937007874
+209,sEDM,mHorror,0.968503937007874
+210,mHorror,sEDM,0.968503937007874
+211,sEDM,mHorror,0.968503937007874
+212,mHorror,sEDM,0.968503937007874
+213,spop rock,mCrime,0.967741935483871
+214,bCrime ,mCrime,0.967741935483871
+215,bCrime ,spop rock,0.967741935483871
+216,spop rock,bCrime ,0.967741935483871
+217,bCrime ,mCrime,0.967741935483871
+218,bCrime ,spop rock,0.967741935483871
+219,spop rock,bCrime ,0.967741935483871
+220,spop rock,mCrime,0.967741935483871
+221,spop rock,mCrime,0.967741935483871
+222,bCrime ,mCrime,0.967741935483871
+223,bCrime ,spop rock,0.967741935483871
+224,spop rock,bCrime ,0.967741935483871
+225,bFiction ,steen pop,0.96551724137931
+226,bFiction ,steen pop,0.96551724137931
+227,bFiction ,steen pop,0.96551724137931
+228,mDrama,bFiction,0.960869565217391
+229,mDrama,bFiction,0.960869565217391
+230,mDrama,bFiction,0.960869565217391
+231,mAdventure,bCrime,0.959537572254335
+232,mAdventure,srap,0.959537572254335
+233,mAdventure,srap,0.959537572254335
+234,mAdventure,srap ,0.959537572254335
+235,mAdventure,srap ,0.959537572254335
+236,mAdventure,bCrime,0.959537572254335
+237,mAdventure,bCrime,0.959537572254335
+238,mAdventure,srap ,0.959537572254335
+239,mAdventure,srap,0.959537572254335
+240,mAction,bFiction,0.956521739130435
+241,mAction,bFiction,0.956521739130435
+242,mAction,bFiction,0.956521739130435
+243,mAction,spop,0.956521739130435
+244,mAction,spop,0.956521739130435
+245,mAction,spop,0.956521739130435
+246,slatin pop,mComedy,0.953846153846154
+247,slatin pop,mComedy,0.953846153846154
+248,slatin pop,mComedy ,0.953846153846154
+249,slatin pop,mComedy,0.953846153846154
+250,slatin pop,mComedy ,0.953846153846154
+251,slatin pop,mComedy,0.953846153846154
+252,slatin pop,mComedy ,0.953846153846154
+253,slatin pop,mComedy,0.953846153846154
+254,slatin pop,mComedy,0.953846153846154
+255,mAction,spop ,0.946291560102302
+256,mAction,spop ,0.946291560102302
+257,mAction,spop ,0.946291560102302
+258,mComedy ,srap,0.944444444444444
+259,mComedy ,srap,0.944444444444444
+260,mComedy ,srap,0.944444444444444
+261,mDrama ,sjazz,0.927601809954751
+262,mDrama ,sjazz,0.927601809954751
+263,mDrama ,sjazz,0.927601809954751
+264,spop,bFiction,0.927125506072874
+265,spop,bFiction,0.927125506072874
+266,spop,bFiction,0.927125506072874
+267,mCrime,bCrime,0.911764705882353
+268,mCrime,bCrime,0.911764705882353
+269,mCrime,bCrime,0.911764705882353
+270,mDrama,sjazz,0.891304347826087
+271,mDrama,sjazz,0.891304347826087
+272,mDrama,sjazz,0.891304347826087
+273,mDrama,sjazz ,0.891304347826087
+274,mDrama,sjazz ,0.891304347826087
+275,mDrama,sjazz ,0.891304347826087
+276,spop ,bFiction,0.890909090909091
+277,spop ,bFiction,0.890909090909091
+278,spop ,bFiction,0.890909090909091
+279,mCrime,spop rock,0.882352941176471
+280,mCrime,bCrime ,0.882352941176471
+281,mCrime,bCrime ,0.882352941176471
+282,mCrime,spop rock,0.882352941176471
+283,mCrime,spop rock,0.882352941176471
+284,mCrime,bCrime ,0.882352941176471
+285,mComedy ,spop,0.859649122807018
+286,mComedy ,spop,0.859649122807018
+287,mComedy ,spop,0.859649122807018
+288,mDocumentary ,srap,0.857142857142857
+289,spop ,mComedy,0.857142857142857
+290,spop ,mComedy,0.857142857142857
+291,spop ,mComedy,0.857142857142857
+292,mDocumentary ,srap,0.857142857142857
+293,mDocumentary ,srap,0.857142857142857
+294,bSuspense,mHorror,0.841059602649007
+295,bSuspense,mHorror,0.841059602649007
+296,bSuspense,mHorror,0.841059602649007
+297,mComedy ,slatin pop,0.837837837837838
+298,mComedy ,slatin pop,0.837837837837838
+299,mComedy ,slatin pop,0.837837837837838
+300,bSuspense,sEDM,0.814569536423841
+301,bSuspense,sEDM ,0.814569536423841
+302,bSuspense,sEDM ,0.814569536423841
+303,bSuspense,sEDM ,0.814569536423841
+304,bSuspense,sEDM,0.814569536423841
+305,bSuspense,sEDM,0.814569536423841
+306,srap,mAdventure,0.809756097560976
+307,srap,mAdventure,0.809756097560976
+308,srap ,mAdventure,0.809756097560976
+309,srap,mAdventure ,0.809756097560976
+310,srap ,mAdventure,0.809756097560976
+311,srap,mAdventure ,0.809756097560976
+312,srap ,mAdventure,0.809756097560976
+313,srap,mAdventure ,0.809756097560976
+314,srap,mAdventure,0.809756097560976
+315,spop ,mAction,0.807860262008734
+316,spop ,mAction,0.807860262008734
+317,spop ,mAction,0.807860262008734
+318,srock,mThriller,0.789473684210526
+319,srock,mThriller,0.789473684210526
+320,srock,mThriller,0.789473684210526
+321,bThriller,srock,0.789473684210526
+322,srock,bThriller,0.789473684210526
+323,bThriller,srock,0.789473684210526
+324,srock,bThriller,0.789473684210526
+325,bThriller,mThriller,0.789473684210526
+326,bThriller,mThriller ,0.789473684210526
+327,srock,bThriller ,0.789473684210526
+328,bThriller,mThriller,0.789473684210526
+329,bThriller,mThriller,0.789473684210526
+330,bThriller,mThriller ,0.789473684210526
+331,srock,bThriller ,0.789473684210526
+332,bThriller,mThriller ,0.789473684210526
+333,srock,bThriller ,0.789473684210526
+334,bThriller,srock,0.789473684210526
+335,srock,bThriller,0.789473684210526
+336,bCrime,srap,0.762081784386617
+337,bCrime,srap,0.762081784386617
+338,bCrime,srap,0.762081784386617
+339,spop,mAction,0.757085020242915
+340,spop,mAction,0.757085020242915
+341,spop,mAction,0.757085020242915
+342,steen pop,mAnimation,0.756756756756757
+343,steen pop,mAnimation,0.756756756756757
+344,steen pop,mAnimation,0.756756756756757
+345,spop,mAction ,0.748987854251012
+346,spop,mAction ,0.748987854251012
+347,spop,mAction ,0.748987854251012
+348,steen pop,bRomance,0.747747747747748
+349,steen pop,bRomance,0.747747747747748
+350,steen pop,bRomance,0.747747747747748
+351,scountry,mBiography,0.725
+352,scountry,bNon-Fiction ,0.725
+353,scountry,bNon-Fiction,0.725
+354,scountry,bNon-Fiction,0.725
+355,scountry,mBiography,0.725
+356,scountry,mBiography,0.725
+357,scountry,bNon-Fiction,0.725
+358,scountry,bNon-Fiction ,0.725
+359,scountry,bNon-Fiction ,0.725
+360,bRomance ,mAnimation,0.674698795180723
+361,bRomance ,mAnimation,0.674698795180723
+362,bRomance ,mAnimation,0.674698795180723
+363,steen pop,bRomance,0.666666666666667
+364,mFamily ,spop,0.666666666666667
+365,mFamily,spop ,0.666666666666667
+366,mFamily ,spop,0.666666666666667
+367,mFamily,spop ,0.666666666666667
+368,steen pop,bRomance,0.666666666666667
+369,steen pop,bRomance,0.666666666666667
+370,mFamily ,spop,0.666666666666667
+371,mFamily,spop ,0.666666666666667
+372,mFamily,spop,0.666666666666667
+373,mFamily,spop,0.666666666666667
+374,mFamily,spop,0.666666666666667
+375,mComedy,bRomance,0.663677130044843
+376,mComedy,bRomance,0.663677130044843
+377,mComedy,bRomance,0.663677130044843
+378,mAnimation,bRomance ,0.658823529411765
+379,mAnimation,bRomance,0.658823529411765
+380,mAnimation,bRomance ,0.658823529411765
+381,mAnimation,bRomance ,0.658823529411765
+382,mAnimation,bRomance,0.658823529411765
+383,mAnimation,bRomance,0.658823529411765
+384,bRomance,mComedy,0.646288209606987
+385,bRomance,mComedy,0.646288209606987
+386,bRomance,mComedy,0.646288209606987
+387,bFiction,spop,0.637883008356546
+388,bFiction,spop,0.637883008356546
+389,bFiction,spop,0.637883008356546
+390,bCrime,mAdventure,0.617100371747212
+391,bCrime,srap ,0.617100371747212
+392,bCrime,srap ,0.617100371747212
+393,bCrime,mAdventure,0.617100371747212
+394,bCrime,mAdventure,0.617100371747212
+395,bCrime,srap ,0.617100371747212
+396,bRomance,slatin pop,0.567685589519651
+397,bRomance,slatin pop,0.567685589519651
+398,bRomance,slatin pop,0.567685589519651
+399,mDocumentary,bCrime,0.56
+400,mDocumentary,bCrime,0.56
+401,mDocumentary,bCrime,0.56
+402,mComedy,slatin pop,0.556053811659193
+403,mComedy,slatin pop,0.556053811659193
+404,mComedy,slatin pop,0.556053811659193
+405,mComedy,slatin pop,0.556053811659193
+406,mComedy,slatin pop,0.556053811659193
+407,mComedy,slatin pop,0.556053811659193
+408,bRomance,mComedy ,0.541484716157205
+409,bRomance,mComedy ,0.541484716157205
+410,bRomance,mComedy ,0.541484716157205
+411,bFiction,mAction,0.520891364902507
+412,bFiction,mAction,0.520891364902507
+413,bFiction,mAction,0.520891364902507
+414,bFiction,spop ,0.515320334261838
+415,bFiction,spop ,0.515320334261838
+416,bFiction,spop ,0.515320334261838
+417,steen pop,bRomance ,0.504504504504505
+418,steen pop,bRomance ,0.504504504504505
+419,steen pop,bRomance ,0.504504504504505
+420,mDocumentary,srap ,0.48
+421,mDocumentary,srap,0.48
+422,mDocumentary,srap ,0.48
+423,mDocumentary,srap ,0.48
+424,mDocumentary,srap,0.48
+425,mDocumentary,srap,0.48
+426,bRomance,steen pop,0.362445414847162
+427,bRomance,steen pop,0.362445414847162
+428,bRomance,steen pop,0.362445414847162
+429,bFiction ,mDrama,0.347826086956522
+430,bFiction ,mDrama,0.347826086956522
+431,bFiction ,mComedy,0.347826086956522
+432,bFiction ,mDrama,0.347826086956522
+433,bFiction ,mComedy,0.347826086956522
+434,bFiction ,mComedy,0.347826086956522
+435,mAnimation,bFiction,0.341176470588235
+436,mAnimation,bFiction,0.341176470588235
+437,mAnimation,bFiction,0.341176470588235
+438,steen pop,bFiction,0.333333333333333
+439,steen pop,bFiction,0.333333333333333
+440,steen pop,bFiction,0.333333333333333
+441,mAnimation,bFiction ,0.329411764705882
+442,mAnimation,bFiction ,0.329411764705882
+443,mAnimation,bFiction ,0.329411764705882
+444,bFiction,mDrama,0.307799442896936
+445,bFiction,mDrama,0.307799442896936
+446,bFiction,mDrama,0.307799442896936
+447,bFiction,mDrama ,0.285515320334262
+448,bFiction,mDrama ,0.285515320334262
+449,bFiction,sjazz,0.285515320334262
+450,bFiction,sjazz,0.285515320334262
+451,bFiction,sjazz,0.285515320334262
+452,bFiction,mDrama ,0.285515320334262
+453,mDocumentary,bFiction,0.28
+454,mDocumentary,bFiction,0.28
+455,mDocumentary,bFiction,0.28
+456,mComedy,bFiction,0.255605381165919
+457,mComedy,bFiction,0.255605381165919
+458,mComedy,bFiction,0.255605381165919
+459,steen pop,bFiction ,0.252252252252252
+460,steen pop,bFiction ,0.252252252252252
+461,steen pop,bFiction,0.252252252252252
+462,steen pop,bFiction,0.252252252252252
+463,steen pop,bFiction ,0.252252252252252
+464,steen pop,bFiction,0.252252252252252
+465,mComedy,spop,0.246636771300448
+466,mComedy,spop,0.246636771300448
+467,mComedy,spop,0.246636771300448
+468,bRomance,steen pop,0.244541484716157
+469,bRomance,mAnimation,0.244541484716157
+470,bRomance,steen pop,0.244541484716157
+471,bRomance,steen pop,0.244541484716157
+472,bRomance,mAnimation,0.244541484716157
+473,bRomance,mAnimation,0.244541484716157
+474,mDocumentary,spop,0.24
+475,mDocumentary,spop,0.24
+476,mDocumentary,spop,0.24
+477,bCrime,spop rock,0.230483271375465
+478,bCrime,spop rock,0.230483271375465
+479,bCrime,spop rock,0.230483271375465
+480,bCrime,mCrime,0.230483271375465
+481,bCrime,mCrime,0.230483271375465
+482,bCrime,mCrime,0.230483271375465
+483,bCrime,spop rock,0.223048327137546
+484,bCrime,spop rock,0.223048327137546
+485,bCrime,spop rock,0.223048327137546
+486,mComedy,spop ,0.219730941704036
+487,mComedy,spop ,0.219730941704036
+488,mComedy,spop ,0.219730941704036
+489,bRomance ,mComedy,0.216867469879518
+490,bRomance ,mComedy,0.216867469879518
+491,bRomance ,mComedy,0.216867469879518
+492,scountry,bFiction,0.191666666666667
+493,scountry,bFiction,0.191666666666667
+494,scountry,bFiction,0.191666666666667
+495,steen pop,mComedy ,0.162162162162162
+496,steen pop,mComedy ,0.162162162162162
+497,steen pop,mComedy,0.162162162162162
+498,steen pop,mComedy,0.162162162162162
+499,steen pop,mComedy,0.162162162162162
+500,steen pop,mComedy ,0.162162162162162
+501,bSuspense,mMystery,0.158940397350993
+502,bSuspense,mMystery,0.158940397350993
+503,bSuspense,mMystery,0.158940397350993
+504,bSuspense,spop ,0.158940397350993
+505,bSuspense,spop,0.158940397350993
+506,bSuspense,spop,0.158940397350993
+507,bSuspense,spop ,0.158940397350993
+508,bSuspense,spop ,0.158940397350993
+509,bSuspense,spop,0.158940397350993
+510,mComedy ,scountry,0.140350877192982
+511,mComedy ,scountry,0.140350877192982
+512,mComedy ,scountry,0.140350877192982
+513,mComedy ,steen pop,0.121621621621622
+514,mComedy ,steen pop,0.121621621621622
+515,mComedy ,steen pop,0.121621621621622
+516,spop,mComedy,0.111336032388664
+517,spop,mComedy,0.111336032388664
+518,spop,mComedy,0.111336032388664
+519,spop ,bRomance,0.109090909090909
+520,spop ,bRomance,0.109090909090909
+521,spop ,bRomance,0.109090909090909
+522,spop ,mComedy,0.106986899563319
+523,spop ,mComedy,0.106986899563319
+524,spop ,mComedy,0.106986899563319
+525,spop,mComedy ,0.09919028340081
+526,spop,mComedy ,0.09919028340081
+527,spop,mComedy ,0.09919028340081
+528,srap,mComedy,0.082926829268293
+529,srap ,mComedy,0.082926829268293
+530,srap,mComedy ,0.082926829268293
+531,srap ,mComedy,0.082926829268293
+532,srap,mComedy ,0.082926829268293
+533,srap,mComedy,0.082926829268293
+534,srap,mComedy,0.082926829268293
+535,srap ,mComedy,0.082926829268293
+536,srap,mComedy ,0.082926829268293
+537,mComedy,bCrime,0.080717488789238
+538,mComedy,bCrime,0.080717488789238
+539,mComedy,bCrime,0.080717488789238
+540,mComedy,bRomance ,0.080717488789238
+541,mComedy,bRomance ,0.080717488789238
+542,mComedy,steen pop,0.080717488789238
+543,mComedy,steen pop,0.080717488789238
+544,mComedy,steen pop,0.080717488789238
+545,mComedy,bRomance ,0.080717488789238
+546,bFiction,mComedy,0.079387186629527
+547,bFiction,mComedy,0.079387186629527
+548,bFiction,mComedy,0.079387186629527
+549,bRomance,mComedy ,0.078602620087336
+550,bRomance,mComedy ,0.078602620087336
+551,bRomance,mComedy ,0.078602620087336
+552,mComedy,srap,0.076233183856502
+553,mComedy,srap ,0.076233183856502
+554,mComedy,srap ,0.076233183856502
+555,mComedy,srap,0.076233183856502
+556,mComedy,srap,0.076233183856502
+557,mComedy,srap ,0.076233183856502
+558,scountry,bRomance,0.075
+559,scountry,bRomance,0.075
+560,scountry,bRomance,0.075
+561,bFiction,spop ,0.068245125348189
+562,bFiction,spop ,0.068245125348189
+563,bFiction,spop ,0.068245125348189
+564,bCrime,mComedy,0.066914498141264
+565,bCrime,mComedy,0.066914498141264
+566,bCrime,mComedy,0.066914498141264
+567,scountry,mDrama ,0.066666666666667
+568,scountry,mDrama ,0.066666666666667
+569,scountry,mComedy ,0.066666666666667
+570,scountry,mDrama,0.066666666666667
+571,scountry,mDrama,0.066666666666667
+572,scountry,mComedy,0.066666666666667
+573,scountry,mComedy,0.066666666666667
+574,scountry,mDrama ,0.066666666666667
+575,scountry,mDrama,0.066666666666667
+576,scountry,mComedy ,0.066666666666667
+577,scountry,mComedy ,0.066666666666667
+578,scountry,mComedy,0.066666666666667
+579,bCrime,mComedy ,0.063197026022305
+580,bCrime,mComedy ,0.063197026022305
+581,bCrime,mComedy ,0.063197026022305
+582,srap ,mDocumentary,0.058536585365854
+583,srap,mDocumentary ,0.058536585365854
+584,srap,mDocumentary,0.058536585365854
+585,srap ,mDocumentary,0.058536585365854
+586,srap,mDocumentary ,0.058536585365854
+587,srap ,mDocumentary,0.058536585365854
+588,srap,mDocumentary ,0.058536585365854
+589,srap,mDocumentary,0.058536585365854
+590,srap,mDocumentary,0.058536585365854
+591,bCrime,mDocumentary,0.052044609665428
+592,bCrime,mDocumentary,0.052044609665428
+593,bCrime,mDocumentary,0.052044609665428
+594,spop,mMystery,0.048582995951417
+595,spop,mMystery ,0.048582995951417
+596,spop,mMystery,0.048582995951417
+597,spop,mMystery,0.048582995951417
+598,spop,bSuspense,0.048582995951417
+599,spop,bSuspense,0.048582995951417
+600,spop,mMystery ,0.048582995951417
+601,spop,mMystery ,0.048582995951417
+602,spop,bSuspense,0.048582995951417
+603,slatin pop,mAction ,0.046153846153846
+604,slatin pop,mAction ,0.046153846153846
+605,slatin pop,mAction ,0.046153846153846
+606,bCrime,mDocumentary ,0.044609665427509
+607,bCrime,mDocumentary ,0.044609665427509
+608,bCrime,mDocumentary ,0.044609665427509
+609,bFiction,mAnimation,0.040389972144847
+610,bFiction,mAnimation,0.040389972144847
+611,bFiction,mAnimation,0.040389972144847
+612,bRomance,scountry,0.039301310043668
+613,bRomance,scountry,0.039301310043668
+614,bRomance,scountry,0.039301310043668
+615,bFiction,steen pop,0.03899721448468
+616,bFiction,steen pop,0.03899721448468
+617,bFiction,steen pop,0.03899721448468
+618,bFiction,steen pop,0.03899721448468
+619,bFiction,steen pop,0.03899721448468
+620,bFiction,steen pop,0.03899721448468
+621,mDrama ,scountry,0.036199095022625
+622,mDrama ,scountry,0.036199095022625
+623,mDrama ,scountry,0.036199095022625
+624,mComedy,bFiction ,0.035874439461884
+625,mComedy,scountry,0.035874439461884
+626,mComedy,scountry,0.035874439461884
+627,mComedy,bFiction ,0.035874439461884
+628,mComedy,bFiction ,0.035874439461884
+629,mComedy,scountry,0.035874439461884
+630,mDrama,bFiction ,0.034782608695652
+631,mDrama,bFiction ,0.034782608695652
+632,mDrama,scountry,0.034782608695652
+633,mDrama,scountry,0.034782608695652
+634,mDrama,bFiction ,0.034782608695652
+635,mDrama,scountry,0.034782608695652
+636,bFiction,scountry,0.032033426183844
+637,bFiction,scountry,0.032033426183844
+638,bFiction,scountry,0.032033426183844
+639,mComedy,spop ,0.026905829596413
+640,mComedy,spop ,0.026905829596413
+641,mComedy,spop ,0.026905829596413
+642,bRomance,spop ,0.026200873362446
+643,bRomance,spop ,0.026200873362446
+644,bRomance,spop ,0.026200873362446
+645,bRomance,mAction ,0.026200873362446
+646,bRomance,mAction ,0.026200873362446
+647,bRomance,mAction ,0.026200873362446
+648,spop ,mFamily,0.017467248908297
+649,spop ,mFamily,0.017467248908297
+650,spop ,mFamily,0.017467248908297
+651,bFiction,mFamily,0.016713091922006
+652,bFiction,mFamily,0.016713091922006
+653,bFiction,mFamily,0.016713091922006
+654,spop,mFamily ,0.016194331983806
+655,spop,mFamily ,0.016194331983806
+656,spop,mFamily ,0.016194331983806
+657,spop,mFamily,0.016194331983806
+658,spop,mFamily,0.016194331983806
+659,spop,mFamily,0.016194331983806
+660,spop,mAdventure ,0.01417004048583
+661,spop,mAdventure ,0.01417004048583
+662,spop,mAdventure ,0.01417004048583
+663,spop,mDocumentary,0.012145748987854
+664,spop,mDocumentary,0.012145748987854
+665,spop,mDocumentary,0.012145748987854
+666,bFiction,mDrama ,0.011142061281337
+667,bFiction,mDrama ,0.011142061281337
+668,bFiction,mDrama ,0.011142061281337
+669,bFiction,mDrama ,0.011142061281337
+670,bFiction,mComedy ,0.011142061281337
+671,bFiction,spop ,0.011142061281337
+672,bFiction,spop ,0.011142061281337
+673,bFiction,mDrama ,0.011142061281337
+674,bFiction,spop ,0.011142061281337
+675,bFiction,mComedy ,0.011142061281337
+676,bFiction,mComedy ,0.011142061281337
+677,bFiction,mDrama ,0.011142061281337
+678,bFiction,spop ,0.00974930362117
+679,bFiction,mDocumentary,0.00974930362117
+680,bFiction,spop ,0.00974930362117
+681,bFiction,spop ,0.00974930362117
+682,bFiction,mDocumentary,0.00974930362117
+683,bFiction,mDocumentary,0.00974930362117
